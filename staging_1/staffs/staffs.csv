@@ -1,0 +1,11 @@
+Unnamed: 0,staff_id,first_name,last_name,email,phone,active,store_id,manager_id,timestamp,source
+0,1,Fabiola,Jackson,fabiola.jackson@bikes.shop,,1,,,2024-04-28 17:44:44.821960,DataLake
+1,2,Mireya,,mireya.copeland@bikes.shop,(831) 555-5555,1,1.0,1.0,2024-04-28 17:44:44.821960,DataLake
+2,3,Genna,Serrano,genna.serrano@bikes.shop,(831) 555-5556,1,1.0,2.0,2024-04-28 17:44:44.821960,DataLake
+3,4,Virgie,Wiggins,virgie.wiggins@bikes.shop,(831) 555-5557,1,1.0,2.0,2024-04-28 17:44:44.821960,DataLake
+4,5,Jannette,David,jannette.david@bikes.shop,(516) 379-4444,1,2.0,1.0,2024-04-28 17:44:44.821960,DataLake
+5,6,Marcelene,Boyer,,(516) 379-4445,1,2.0,5.0,2024-04-28 17:44:44.821960,DataLake
+6,7,Venita,Daniel,venita.daniel@bikes.shop,,1,2.0,5.0,2024-04-28 17:44:44.821960,DataLake
+7,8,Kali,Vargas,kali.vargas@bikes.shop,(972) 530-5555,1,3.0,1.0,2024-04-28 17:44:44.821960,DataLake
+8,9,Layla,Terrell,layla.terrell@bikes.shop,(972) 530-5556,1,3.0,7.0,2024-04-28 17:44:44.821960,DataLake
+9,10,Bernardine,Houston,bernardine.houston@bikes.shop,(972) 530-5557,1,3.0,7.0,2024-04-28 17:44:44.821960,DataLake

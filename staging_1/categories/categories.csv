@@ -1,0 +1,8 @@
+Unnamed: 0,category_id,category_name,timestamp,source
+0,1,Children Bicycles,2024-04-28 17:44:44.771942,DataLake
+1,2,Comfort Bicycles,2024-04-28 17:44:44.771942,DataLake
+2,3,Cruisers Bicycles,2024-04-28 17:44:44.771942,DataLake
+3,4,Cyclocross Bicycles,2024-04-28 17:44:44.771942,DataLake
+4,5,Electric Bikes,2024-04-28 17:44:44.771942,DataLake
+5,6,Mountain Bikes,2024-04-28 17:44:44.771942,DataLake
+6,7,Road Bikes,2024-04-28 17:44:44.771942,DataLake

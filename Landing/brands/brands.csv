@@ -1,0 +1,10 @@
+brand_id,brand_name,timestamp,source
+1,Electra,2024-04-30 10:11:51.120685,DataLake
+2,Haro,2024-04-30 10:11:51.120685,DataLake
+3,Heller,2024-04-30 10:11:51.120685,DataLake
+4,Pure Cycles,2024-04-30 10:11:51.120685,DataLake
+5,Ritchey,2024-04-30 10:11:51.120685,DataLake
+6,Strider,2024-04-30 10:11:51.120685,DataLake
+7,Sun Bicycles,2024-04-30 10:11:51.120685,DataLake
+8,Surly,2024-04-30 10:11:51.120685,DataLake
+9,Trek,2024-04-30 10:11:51.120685,DataLake
